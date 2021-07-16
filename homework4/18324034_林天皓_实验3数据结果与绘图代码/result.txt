@@ -1,0 +1,282 @@
+==== parllar sort start n 1000 threads 2=====
+Parallel run time: 1.078986e-03
+
+==== parllar sort start n 1000 threads 4=====
+Parallel run time: 2.300685e-04
+
+==== parllar sort start n 1000 threads 8=====
+Parallel run time: 2.610273e-04
+
+==== parllar sort start n 1000 threads 18=====
+Parallel run time: 1.014899e-03
+
+==== parllar sort start n 1000 threads 36=====
+Parallel run time: 2.092991e-03
+
+==== parllar sort start n 1000 threads 54=====
+Parallel run time: 1.127086e-03
+
+==== parllar sort start n 1000 threads 72=====
+Parallel run time: 3.733488e-02
+
+==== parllar sort start n 10000 threads 2=====
+Parallel run time: 3.390301e-02
+
+==== parllar sort start n 10000 threads 4=====
+Parallel run time: 1.526506e-02
+
+==== parllar sort start n 10000 threads 8=====
+Parallel run time: 1.887797e-02
+
+==== parllar sort start n 10000 threads 18=====
+Parallel run time: 8.733928e-03
+
+==== parllar sort start n 10000 threads 36=====
+Parallel run time: 3.309118e-03
+
+==== parllar sort start n 10000 threads 54=====
+Parallel run time: 2.184047e-03
+
+==== parllar sort start n 10000 threads 72=====
+Parallel run time: 1.628027e-03
+
+==== parllar sort start n 100000 threads 2=====
+Parallel run time: 1.509772e+00
+
+==== parllar sort start n 100000 threads 4=====
+Parallel run time: 6.971821e-01
+
+==== parllar sort start n 100000 threads 8=====
+Parallel run time: 3.474409e-01
+
+==== parllar sort start n 100000 threads 18=====
+Parallel run time: 1.546139e-01
+
+==== parllar sort start n 100000 threads 36=====
+Parallel run time: 8.952298e-02
+
+==== parllar sort start n 100000 threads 54=====
+Parallel run time: 2.562710e-01
+
+==== parllar sort start n 100000 threads 72=====
+Parallel run time: 1.672110e-01
+
+==== parllar sort start n 1000000 threads 2=====
+Parallel run time: 1.390817e+02
+
+==== parllar sort start n 1000000 threads 4=====
+Parallel run time: 6.957854e+01
+
+==== parllar sort start n 1000000 threads 8=====
+Parallel run time: 3.477301e+01
+
+==== parllar sort start n 1000000 threads 18=====
+Parallel run time: 1.547627e+01
+
+==== parllar sort start n 1000000 threads 36=====
+Parallel run time: 8.631112e+00
+
+==== parllar sort start n 1000000 threads 54=====
+Parallel run time: 9.470338e+00
+
+==== parllar sort start n 1000000 threads 72=====
+Parallel run time: 9.101241e+00
+
+==== parllar sort start n 2000000 threads 2=====
+Parallel run time: 5.560940e+02
+
+==== parllar sort start n 2000000 threads 4=====
+Parallel run time: 2.781718e+02
+
+==== parllar sort start n 2000000 threads 8=====
+Parallel run time: 1.391272e+02
+
+==== parllar sort start n 2000000 threads 18=====
+Parallel run time: 6.188803e+01
+
+==== parllar sort start n 2000000 threads 36=====
+Parallel run time: 3.437732e+01
+
+==== parllar sort start n 2000000 threads 54=====
+Parallel run time: 3.501336e+01
+
+==== parllar sort start n 2000000 threads 72=====
+Parallel run time: 3.548548e+01
+
+==== parllar sort start n 4000000 threads 2=====
+Parallel run time: 2.321093e+03
+
+==== parllar sort start n 4000000 threads 4=====
+Parallel run time: 1.147928e+03
+
+==== parllar sort start n 4000000 threads 8=====
+Parallel run time: 5.707587e+02
+
+==== parllar sort start n 4000000 threads 18=====
+Parallel run time: 2.542188e+02
+
+==== parllar sort start n 4000000 threads 36=====
+Parallel run time: 1.474407e+02
+
+==== parllar sort start n 4000000 threads 54=====
+Parallel run time: 1.419834e+02
+
+==== parllar sort start n 4000000 threads 72=====
+Parallel run time: 1.398583e+02
+
+==== AVX512 parallel sort start n 1000 threads 2=====
+AVX512 Parallel run time: 3.168999e-04
+
+==== AVX512 parallel sort start n 1000 threads 4=====
+AVX512 Parallel run time: 1.680811e-04
+
+==== AVX512 parallel sort start n 1000 threads 8=====
+AVX512 Parallel run time: 1.120355e-04
+
+==== AVX512 parallel sort start n 1000 threads 18=====
+AVX512 Parallel run time: 1.179720e-04
+
+==== AVX512 parallel sort start n 1000 threads 36=====
+AVX512 Parallel run time: 1.979480e-04
+
+==== AVX512 parallel sort start n 1000 threads 54=====
+AVX512 Parallel run time: 2.382005e-02
+
+==== AVX512 parallel sort start n 1000 threads 72=====
+AVX512 Parallel run time: 1.863989e-02
+
+==== AVX512 parallel sort start n 10000 threads 2=====
+AVX512 Parallel run time: 2.952109e-02
+
+==== AVX512 parallel sort start n 10000 threads 4=====
+AVX512 Parallel run time: 2.259094e-02
+
+==== AVX512 parallel sort start n 10000 threads 8=====
+AVX512 Parallel run time: 4.410051e-03
+
+==== AVX512 parallel sort start n 10000 threads 18=====
+AVX512 Parallel run time: 1.036301e-02
+
+==== AVX512 parallel sort start n 10000 threads 36=====
+AVX512 Parallel run time: 5.758893e-03
+
+==== AVX512 parallel sort start n 10000 threads 54=====
+AVX512 Parallel run time: 1.536117e-03
+
+==== AVX512 parallel sort start n 10000 threads 72=====
+AVX512 Parallel run time: 1.715019e-03
+
+==== AVX512 parallel sort start n 100000 threads 2=====
+AVX512 Parallel run time: 1.294187e+00
+
+==== AVX512 parallel sort start n 100000 threads 4=====
+AVX512 Parallel run time: 5.874330e-01
+
+==== AVX512 parallel sort start n 100000 threads 8=====
+AVX512 Parallel run time: 2.943000e-01
+
+==== AVX512 parallel sort start n 100000 threads 18=====
+AVX512 Parallel run time: 1.310800e-01
+
+==== AVX512 parallel sort start n 100000 threads 36=====
+AVX512 Parallel run time: 1.323481e-01
+
+==== AVX512 parallel sort start n 100000 threads 54=====
+AVX512 Parallel run time: 1.746550e-01
+
+==== AVX512 parallel sort start n 100000 threads 72=====
+AVX512 Parallel run time: 1.898391e-01
+
+==== AVX512 parallel sort start n 1000000 threads 2=====
+AVX512 Parallel run time: 1.187616e+02
+
+==== AVX512 parallel sort start n 1000000 threads 4=====
+AVX512 Parallel run time: 5.931833e+01
+
+==== AVX512 parallel sort start n 1000000 threads 8=====
+AVX512 Parallel run time: 2.970753e+01
+
+==== AVX512 parallel sort start n 1000000 threads 18=====
+AVX512 Parallel run time: 1.322904e+01
+
+==== AVX512 parallel sort start n 1000000 threads 36=====
+AVX512 Parallel run time: 6.891064e+00
+
+==== AVX512 parallel sort start n 1000000 threads 54=====
+AVX512 Parallel run time: 7.493296e+00
+
+==== AVX512 parallel sort start n 1000000 threads 72=====
+AVX512 Parallel run time: 7.391363e+00
+
+==== AVX512 parallel sort start n 2000000 threads 2=====
+AVX512 Parallel run time: 4.761015e+02
+
+==== AVX512 parallel sort start n 2000000 threads 4=====
+AVX512 Parallel run time: 2.374238e+02
+
+==== AVX512 parallel sort start n 2000000 threads 8=====
+AVX512 Parallel run time: 1.188145e+02
+
+==== AVX512 parallel sort start n 2000000 threads 18=====
+AVX512 Parallel run time: 5.296710e+01
+
+==== AVX512 parallel sort start n 2000000 threads 36=====
+AVX512 Parallel run time: 2.717264e+01
+
+==== AVX512 parallel sort start n 2000000 threads 54=====
+AVX512 Parallel run time: 2.956941e+01
+
+==== AVX512 parallel sort start n 2000000 threads 72=====
+AVX512 Parallel run time: 2.855531e+01
+
+==== AVX512 parallel sort start n 4000000 threads 2=====
+AVX512 Parallel run time: 2.013044e+03
+
+==== AVX512 parallel sort start n 4000000 threads 4=====
+AVX512 Parallel run time: 1.004764e+03
+
+==== AVX512 parallel sort start n 4000000 threads 8=====
+AVX512 Parallel run time: 4.976128e+02
+
+==== AVX512 parallel sort start n 4000000 threads 18=====
+AVX512 Parallel run time: 2.284595e+02
+
+==== AVX512 parallel sort start n 4000000 threads 36=====
+AVX512 Parallel run time: 1.077192e+02
+
+==== AVX512 parallel sort start n 4000000 threads 54=====
+AVX512 Parallel run time: 1.123145e+02
+
+==== AVX512 parallel sort start n 4000000 threads 72=====
+AVX512 Parallel run time: 1.103376e+02
+
+==== serial sort start n 1000=====
+Serial run time: 3.010000e-04
+
+==== serial sort start n 10000=====
+Serial run time: 2.781700e-02
+
+==== serial sort start n 100000=====
+Serial run time: 2.772090e+00
+
+==== serial sort start n 1000000=====
+Serial run time: 2.777741e+02
+
+==== serial sort start n 2000000=====
+Serial run time: 1.110864e+03
+
+==== serial sort start n 4000000=====
+Serial run time: 4.734710e+03
+
+====  qsort start n 1000=====
+qsort run time: 8.999341e-05
+====  qsort start n 10000=====
+qsort run time: 7.710824e-04
+====  qsort start n 100000=====
+qsort run time: 9.436005e-03
+====  qsort start n 1000000=====
+qsort run time: 1.131210e-01
+====  qsort start n 2000000=====
+qsort run time: 2.371560e-01
+====  qsort start n 4000000=====
+qsort run time: 4.998071e-01

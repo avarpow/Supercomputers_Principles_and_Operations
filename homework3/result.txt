@@ -1,0 +1,336 @@
+================start a new thread_count test=================
+now process thread_count:72
+With n = 1000 terms,
+   Our estimate of pi = 3.140524277826286
+The elapsed time is 1.812935e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492009467665
+The elapsed time is 1.454115e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582647185670
+The elapsed time is 1.560926e-03 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653525764
+The elapsed time is 1.492023e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553589164
+The elapsed time is 2.665043e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643590398
+The elapsed time is 2.025414e-02 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652586581
+The elapsed time is 1.503689e-01 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653480329
+The elapsed time is 1.389847e+00 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653529180
+The elapsed time is 2.936386e+00 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653556665
+The elapsed time is 5.850664e+00 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:54
+With n = 1000 terms,
+   Our estimate of pi = 3.140563847277664
+The elapsed time is 1.194000e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492553489947
+The elapsed time is 1.010895e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582648987669
+The elapsed time is 1.032829e-03 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653561805
+The elapsed time is 1.059055e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553589740
+The elapsed time is 2.202034e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643589760
+The elapsed time is 1.819706e-02 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652585576
+The elapsed time is 1.411200e-01 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653480353
+The elapsed time is 1.455058e+00 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653529790
+The elapsed time is 2.906450e+00 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653557421
+The elapsed time is 5.974831e+00 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:36
+With n = 1000 terms,
+   Our estimate of pi = 3.140563847277664
+The elapsed time is 7.290840e-04 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492372803838
+The elapsed time is 6.499290e-04 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582650789006
+The elapsed time is 6.239414e-04 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653561816
+The elapsed time is 7.088184e-04 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553589509
+The elapsed time is 2.613068e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643589137
+The elapsed time is 2.590394e-02 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652582248
+The elapsed time is 1.447308e-01 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653479189
+The elapsed time is 1.419390e+00 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653531674
+The elapsed time is 2.723542e+00 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653555964
+The elapsed time is 5.421291e+00 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:18
+With n = 1000 terms,
+   Our estimate of pi = 3.140582552837346
+The elapsed time is 2.210140e-04 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492553489942
+The elapsed time is 1.859665e-04 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582652589695
+The elapsed time is 1.921654e-04 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653579834
+The elapsed time is 4.220009e-04 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553589972
+The elapsed time is 2.816200e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643588820
+The elapsed time is 2.687407e-02 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652584176
+The elapsed time is 2.668869e-01 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653481680
+The elapsed time is 2.667354e+00 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653530962
+The elapsed time is 5.332478e+00 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653558594
+The elapsed time is 1.058948e+01 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:8
+With n = 1000 terms,
+   Our estimate of pi = 3.140592653839793
+The elapsed time is 1.060963e-04 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492653590024
+The elapsed time is 1.020432e-04 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582653589758
+The elapsed time is 1.409054e-04 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653589837
+The elapsed time is 6.749630e-04 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553590702
+The elapsed time is 6.088018e-03 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643584875
+The elapsed time is 5.964494e-02 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652581190
+The elapsed time is 5.956740e-01 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653481126
+The elapsed time is 5.950843e+00 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653531526
+The elapsed time is 1.190054e+01 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653552083
+The elapsed time is 2.380827e+01 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:4
+With n = 1000 terms,
+   Our estimate of pi = 3.140592653839788
+The elapsed time is 6.604195e-05 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492653590033
+The elapsed time is 6.604195e-05 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582653589841
+The elapsed time is 1.568794e-04 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653589753
+The elapsed time is 1.244068e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553589575
+The elapsed time is 1.194406e-02 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643582372
+The elapsed time is 1.191881e-01 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652579696
+The elapsed time is 1.190177e+00 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653481543
+The elapsed time is 1.189747e+01 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653527067
+The elapsed time is 2.383237e+01 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653542255
+The elapsed time is 4.758450e+01 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:2
+With n = 1000 terms,
+   Our estimate of pi = 3.140592653839790
+The elapsed time is 5.197525e-05 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492653590049
+The elapsed time is 6.103516e-05 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582653589831
+The elapsed time is 2.760887e-04 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653589797
+The elapsed time is 2.402067e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553588680
+The elapsed time is 2.389407e-02 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643584849
+The elapsed time is 2.382171e-01 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652581486
+The elapsed time is 2.380189e+00 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653477077
+The elapsed time is 2.380596e+01 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653517435
+The elapsed time is 4.760074e+01 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653658436
+The elapsed time is 9.518505e+01 seconds
+                   pi = 3.141592653589793
+================start a new thread_count test=================
+now process thread_count:1
+With n = 1000 terms,
+   Our estimate of pi = 3.140592653839777
+The elapsed time is 5.006790e-05 seconds
+                   pi = 3.141592653589793
+With n = 10000 terms,
+   Our estimate of pi = 3.141492653590019
+The elapsed time is 8.010864e-05 seconds
+                   pi = 3.141592653589793
+With n = 100000 terms,
+   Our estimate of pi = 3.141582653589785
+The elapsed time is 5.068779e-04 seconds
+                   pi = 3.141592653589793
+With n = 1000000 terms,
+   Our estimate of pi = 3.141591653590884
+The elapsed time is 4.783869e-03 seconds
+                   pi = 3.141592653589793
+With n = 10000000 terms,
+   Our estimate of pi = 3.141592553586459
+The elapsed time is 4.755187e-02 seconds
+                   pi = 3.141592653589793
+With n = 100000000 terms,
+   Our estimate of pi = 3.141592643580143
+The elapsed time is 4.754610e-01 seconds
+                   pi = 3.141592653589793
+With n = 1000000000 terms,
+   Our estimate of pi = 3.141592652580743
+The elapsed time is 4.754715e+00 seconds
+                   pi = 3.141592653589793
+With n = 10000000000 terms,
+   Our estimate of pi = 3.141592653467595
+The elapsed time is 4.753911e+01 seconds
+                   pi = 3.141592653589793
+With n = 20000000000 terms,
+   Our estimate of pi = 3.141592653633516
+The elapsed time is 9.510825e+01 seconds
+                   pi = 3.141592653589793
+With n = 40000000000 terms,
+   Our estimate of pi = 3.141592653502060
+The elapsed time is 1.901638e+02 seconds
+                   pi = 3.141592653589793

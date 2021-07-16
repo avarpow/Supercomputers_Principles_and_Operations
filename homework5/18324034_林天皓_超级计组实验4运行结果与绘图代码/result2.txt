@@ -1,0 +1,722 @@
+Count 17
+<<<<<<<<<<<<< start new Count: 8 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 3.519058e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 3.778934e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 4.379749e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 1.990795e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 3.511906e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 1.330376e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 2.379417e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 1.018047e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 2.510548e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 1.649857e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 3.600121e-04 seconds
+get New best cost1346
+0 3 2 1 4 5 7 6
+91 228 390 227 267 34 29 80
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 2.540684e-02 seconds
+get New best cost1346
+0 6 7 5 1 4 2 3
+80 29 34 488 227 169 228 91
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 2.865076e-03 seconds
+get New best cost1346
+0 6 7 5 1 4 2 3
+80 29 34 488 227 169 228 91
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 4.533052e-03 seconds
+get New best cost1346
+0 3 4 1 2 5 7 6
+91 383 227 390 112 34 29 80
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 1.501083e-03 seconds
+get New best cost1346
+0 3 4 1 2 5 7 6
+91 383 227 390 112 34 29 80
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 3.068447e-04 seconds
+get New best cost1346
+0 3 4 1 2 5 7 6
+91 383 227 390 112 34 29 80
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 1.919985e-03 seconds
+get New best cost1346
+0 3 4 1 2 5 7 6
+91 383 227 390 112 34 29 80
+<<<<<<<<<<<<< start new Count: 9 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 2.957106e-03 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 2.951145e-03 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 2.980947e-03 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 1.734018e-03 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 1.534939e-03 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 7.791519e-04 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 7.867813e-04 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 4.251003e-04 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 6.167889e-04 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 3.819466e-04 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 3.941059e-03 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 2.175999e-02 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 7.969141e-03 seconds
+get New best cost1472
+0 6 7 5 2 4 1 8 3
+80 29 34 112 169 227 555 175 91
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 2.633095e-03 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 1.284122e-03 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 4.880428e-04 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 1.850128e-03 seconds
+get New best cost1472
+0 3 8 1 4 2 5 7 6
+91 175 555 227 169 112 34 29 80
+<<<<<<<<<<<<< start new Count: 10 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 2.853894e-02 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 2.744317e-02 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 3.725600e-02 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 1.400614e-02 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 1.385593e-02 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 6.961823e-03 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 9.451151e-03 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 4.743099e-03 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 4.750967e-03 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 2.794981e-03 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 2.352953e-03 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 2.447104e-02 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 9.749889e-03 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 2.317905e-03 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 1.513004e-03 seconds
+get New best cost1637
+0 6 7 5 2 9 1 4 8 3
+80 29 34 112 262 289 227 338 175 91
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 1.802206e-03 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 1.911879e-03 seconds
+get New best cost1637
+0 3 8 4 1 9 2 5 7 6
+91 175 338 227 289 262 112 34 29 80
+<<<<<<<<<<<<< start new Count: 11 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 3.018391e-01 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 2.942080e-01 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 3.306119e-01 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 1.473560e-01 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 1.490672e-01 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 8.517408e-02 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 7.864594e-02 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 4.137206e-02 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 5.335093e-02 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 2.411509e-02 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 2.191496e-02 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 2.172709e-02 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 2.277899e-02 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 1.342797e-02 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 9.356022e-03 seconds
+get New best cost1639
+0 6 7 5 2 10 9 1 4 8 3
+80 29 34 112 110 154 289 227 338 175 91
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 1.334095e-02 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 7.467985e-03 seconds
+get New best cost1639
+0 3 8 4 1 9 10 2 5 7 6
+91 175 338 227 289 154 110 112 34 29 80
+<<<<<<<<<<<<< start new Count: 12 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 3.492918e+00 seconds
+get New best cost1799
+0 3 11 8 4 1 9 10 2 5 7 6
+91 240 95 338 227 289 154 110 112 34 29 80
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 3.446405e+00 seconds
+get New best cost1799
+0 3 11 8 4 1 9 10 2 5 7 6
+91 240 95 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 3.472840e+00 seconds
+get New best cost1799
+0 3 11 8 4 1 9 10 2 5 7 6
+91 240 95 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 1.726659e+00 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 1.727954e+00 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 8.784771e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 8.808250e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 4.481280e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 4.454231e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 2.253051e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 1.964490e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 1.373370e-01 seconds
+get New best cost1799
+0 3 11 8 4 1 9 10 2 5 7 6
+91 240 95 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 1.181130e-01 seconds
+get New best cost1799
+0 3 11 8 4 1 9 10 2 5 7 6
+91 240 95 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 1.392498e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 1.012430e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 1.179349e-01 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 6.894398e-02 seconds
+get New best cost1799
+0 6 7 5 2 10 9 1 4 8 11 3
+80 29 34 112 110 154 289 227 338 95 240 91
+<<<<<<<<<<<<< start new Count: 13 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 4.378246e+01 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 4.399026e+01 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 4.405836e+01 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 2.204950e+01 seconds
+get New best cost1805
+0 12 3 11 8 4 1 9 10 2 5 7 6
+70 27 240 95 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 2.203228e+01 seconds
+get New best cost1805
+0 12 3 11 8 4 1 9 10 2 5 7 6
+70 27 240 95 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 1.102857e+01 seconds
+get New best cost1805
+0 12 3 11 8 4 1 9 10 2 5 7 6
+70 27 240 95 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 1.102494e+01 seconds
+get New best cost1805
+0 12 3 11 8 4 1 9 10 2 5 7 6
+70 27 240 95 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 5.674397e+00 seconds
+get New best cost1805
+0 12 3 11 8 4 1 9 10 2 5 7 6
+70 27 240 95 338 227 289 154 110 112 34 29 80
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 5.672256e+00 seconds
+get New best cost1805
+0 12 3 11 8 4 1 9 10 2 5 7 6
+70 27 240 95 338 227 289 154 110 112 34 29 80
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 2.697147e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 2.693601e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 1.618854e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 1.550162e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 1.778654e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 1.135375e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 1.468367e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 1.399103e+00 seconds
+get New best cost1805
+0 6 7 5 2 10 9 1 4 8 11 3 12
+80 29 34 112 110 154 289 227 338 95 240 27 70
+<<<<<<<<<<<<< start new Count: 14 >>>>>>>>>>
+ ===========  Serial time  =============
+ The elapsed time is 6.014124e+02 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+
+################## start new thread_nums: 1 #################
+ ====  OpenMP time  thread_nums:1 ====
+ The elapsed time is 5.978634e+02 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:1 ====
+ The elapsed time is 5.988356e+02 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 2 #################
+ ====  OpenMP time  thread_nums:2 ====
+ The elapsed time is 2.996234e+02 seconds
+get New best cost1872
+0 12 3 11 8 4 1 9 10 2 13 5 7 6
+70 27 240 95 338 227 289 154 110 74 105 34 29 80
+
+ ====  pthread time  thread_nums:2 ====
+ The elapsed time is 2.996914e+02 seconds
+get New best cost1872
+0 12 3 11 8 4 1 9 10 2 13 5 7 6
+70 27 240 95 338 227 289 154 110 74 105 34 29 80
+################## start new thread_nums: 4 #################
+ ====  OpenMP time  thread_nums:4 ====
+ The elapsed time is 1.499738e+02 seconds
+get New best cost1872
+0 12 3 11 8 4 1 9 10 2 13 5 7 6
+70 27 240 95 338 227 289 154 110 74 105 34 29 80
+
+ ====  pthread time  thread_nums:4 ====
+ The elapsed time is 1.499714e+02 seconds
+get New best cost1872
+0 12 3 11 8 4 1 9 10 2 13 5 7 6
+70 27 240 95 338 227 289 154 110 74 105 34 29 80
+################## start new thread_nums: 8 #################
+ ====  OpenMP time  thread_nums:8 ====
+ The elapsed time is 7.693898e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:8 ====
+ The elapsed time is 7.715161e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 18 #################
+ ====  OpenMP time  thread_nums:18 ====
+ The elapsed time is 3.841621e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:18 ====
+ The elapsed time is 3.491470e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 36 #################
+ ====  OpenMP time  thread_nums:36 ====
+ The elapsed time is 2.017311e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:36 ====
+ The elapsed time is 1.683941e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 54 #################
+ ====  OpenMP time  thread_nums:54 ====
+ The elapsed time is 2.220832e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+
+ ====  pthread time  thread_nums:54 ====
+ The elapsed time is 1.902831e+01 seconds
+get New best cost1872
+0 6 7 5 13 2 10 9 1 4 8 11 3 12
+80 29 34 105 74 110 154 289 227 338 95 240 27 70
+################## start new thread_nums: 72 #################
+ ====  OpenMP time  thread_nums:72 ====
+ The elapsed time is 2.049776e+01 seconds
+get New best cost1872
+0 12 3 11 8 4 1 9 10 2 13 5 7 6
+70 27 240 95 338 227 289 154 110 74 105 34 29 80
+
+ ====  pthread time  thread_nums:72 ====
+ The elapsed time is 1.566715e+01 seconds
+get New best cost1872
+0 12 3 11 8 4 1 9 10 2 13 5 7 6
+70 27 240 95 338 227 289 154 110 74 105 34 29 80
